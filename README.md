@@ -1,2 +1,2 @@
 # BCWallet
-BCのwalletを作る
+BCのwalletを作る(あるいはYukawa coin)
